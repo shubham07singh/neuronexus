@@ -19,7 +19,7 @@ This project is a responsive, accessible, and visually clean web form designed t
   - Hover effect on the submit button
 - 📱 Responsive Design (works on mobile & desktop)
 
-## 📂 Files
+## 📂 File
 
 - `index.html`: Main form structure using HTML5.
 - `index.css`: Styling for form layout, background, inputs, and responsiveness.
