@@ -27,7 +27,8 @@ This project is a responsive, accessible, and visually clean web form designed t
 
 ## 📸 Screenshot
 
-![Form Screenshot](./screenshot.png)  
+![Form Screenshot](![image](https://github.com/user-attachments/assets/92365c0c-c360-4ba6-b57d-a539aae43885)
+)  
 > Replace this with an actual screenshot file if needed.
 
 ## 💡 How to Use
