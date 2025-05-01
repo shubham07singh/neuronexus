@@ -25,12 +25,6 @@ This project is a responsive, accessible, and visually clean web form designed t
 - `index.css`: Styling for form layout, background, inputs, and responsiveness.
 - `README.md`: Project documentation.
 
-## 📸 Screenshot
-
-![Form Screenshot](![image](https://github.com/user-attachments/assets/92365c0c-c360-4ba6-b57d-a539aae43885)
-)  
-> Replace this with an actual screenshot file if needed.
-
 ## 💡 How to Use
 
 1. Clone this repository or download the files.
